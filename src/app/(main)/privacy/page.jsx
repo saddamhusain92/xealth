@@ -3,7 +3,7 @@ import React from 'react'
 function Privacy() {
   return (
     <div className='p-8'> 
-        Privacy page
+    <h1 className='text-4xl font-bold'>Privacy Policy</h1>
     </div>
   )
 }
