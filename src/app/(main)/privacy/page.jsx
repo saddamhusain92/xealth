@@ -32,15 +32,7 @@ By visiting our Platform or by voluntarily providing your information, you conse
 <h4 className='text-2xl mb-3'>Changes to this Privacy Policy</h4>
 Please check our Privacy Policy periodically for changes. We may update this Privacy Policy to reflect changes to our information practices.
 <h4 className='text-2xl mb-3'>Grievance Officer</h4>
-Shremanth M
-xwealth Internet Pvt. Ltd.
-Embassy Tech Village
-8th Floor Block ‘B’ Devarabeesanahalli Village,
-Varthur Hobli, Bengaluru East Taluk,
-Bengaluru District,
-Karnataka, India, 560103
-Email: privacy.grievance@xwealth.com
-Last Updated: 09 Dec 2023
+<address>add address </address>
     </div>
   )
 }
